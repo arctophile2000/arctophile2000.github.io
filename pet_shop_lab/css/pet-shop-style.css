@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&display=swap');
+
+h1 {
+	font-size: 37px;
+	text-align: center;
+	text-transform: uppercase;
+	color: black;
+	background: pink;
+	border: 10px;
+	border-style: dashed;
+	border-color: red;
+	font-family: 'ZCOOL KuaiLe', cursive, sans-serif;
+
+}
+
+ul {font-size: 18px;
+border-width: 2px;
+color: brown;
+display: flex;
+list-style: none;
+justify-content: space-around;
+}
+
+
+img {
+	height: 150px;
+}
+
+body {
+	color: green;
+	background: #c9a1ce;
+	font-size: 24px;
+}
+
+.fish {
+	color: orange;
+	text-decoration: underline;
+	
+}
+
+.mammals {
+	color: red;
+	font-weight: bold;
+
+}
+
+.birds {
+	color: blue;
+	font-style: italic;	
+}
+
+li {background-color: white;
+	padding: 30px;
+	font-size: 30px;
+	width: 15%;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
+
+li:hover {
+	opacity: 0.5;
+}
+
